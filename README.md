@@ -1,2 +1,2 @@
-# JQuery-_MovieApp
-JQuery _Project
+# JQuery_MovieApp
+JQuery_Project
