@@ -1,2 +1,2 @@
 # JQuery-_MovieApp
-JQuery _Lab2
+JQuery _Project
